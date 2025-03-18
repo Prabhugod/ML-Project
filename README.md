@@ -43,7 +43,3 @@ The dataset contains information on **direct marketing campaigns** of a banking 
 
 ## 🎯 Target Variable (Output)
 16. **target** *(binary)* – Did the client subscribe to a term deposit? (`yes`, `no`)  
-
----
-
-This dataset can be used to build **predictive models** for **customer conversion** and **marketing optimization**. 🚀📈
